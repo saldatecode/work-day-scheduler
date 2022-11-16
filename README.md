@@ -26,3 +26,4 @@ Personal work calender that that give the user the option to place text in each 
 
 ## Live site
 
+https://saldatecode.github.io/work-day-scheduler/
